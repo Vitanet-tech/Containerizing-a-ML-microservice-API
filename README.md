@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Vitanet-tech/DevOps-Microservice-Kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Vitanet-tech/DevOps-Microservice-Kubernetes/tree/main)
 
 ## Project Overview
 
