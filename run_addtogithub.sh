@@ -6,7 +6,7 @@ git add .
 git commit -m "project commit"
 
 #git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
-git remote add origin https://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@github.com/Vitanet-tech/DevOps-Microservice-Kubernetes.git
+git remote add origin https://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@github.com/Vitanet-tech/DevOps-Microservice-Kubernetes.git
 
 git branch -M main
 
