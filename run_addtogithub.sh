@@ -1,7 +1,7 @@
 #To push local repo to github.
 git init
 
-git add --all
+git add .
 
 git commit -m "project commit"
 
