@@ -49,4 +49,4 @@ source .devops/bin/activate
 * Create Flask app in Container
 * Run via kubectl
 
-### Congratuations, you have successfully containerized and deployed a machine learning application using Kubernetes :)
+### Congratuations, We have successfully containerized and deployed a machine learning application using Kubernetes :)
